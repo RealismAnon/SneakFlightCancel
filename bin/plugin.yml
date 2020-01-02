@@ -1,0 +1,6 @@
+name: SneakFlyCancel
+author: Realism
+version: 1.0
+main: me.realism.testplugin.Main
+description: Sneaking Cancels Flying.
+commands:
